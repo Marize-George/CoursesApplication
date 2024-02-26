@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578637433478",
+    "project_id": "courseapplication-fbcfc",
+    "storage_bucket": "courseapplication-fbcfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578637433478:android:caa584295146c02a155f07",
+        "android_client_info": {
+          "package_name": "com.example.coursesapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vsl4SL8FbvPpMbsIg3AlavyWsOcpGfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
